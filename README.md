@@ -18,3 +18,4 @@ Define o comportamento para componentes que possuam componentes-filho, armazena 
 #### Client 
 Opera os objetos da composição através da interface do componente.
 ## Exemplo de implmentação
+https://github.com/gustavokiyatake/Project-Pattern-Composite/tree/master/Composite/src
